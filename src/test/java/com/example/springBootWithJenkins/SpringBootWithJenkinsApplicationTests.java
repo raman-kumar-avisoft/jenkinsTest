@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest
 class SpringBootWithJenkinsApplicationTests {
 
-	public static final Logger logger = LoggerFactory.getLogger(SpringBootWithJenkinsApplication.class);
+	public static final Logger logger = LoggerFactory.getLogger(SpringBootWithJenkinsApplicationTests.class);
 
 	@Test
 	void contextLoads() {
